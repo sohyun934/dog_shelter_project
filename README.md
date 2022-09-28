@@ -27,7 +27,7 @@
 
 ## 설치 방법
 1. Repository의 Code > Download Zip
-2. Eclipse에서 Zip 파일 Import
+2. Zip 파일 Import
 3. 명령 프롬프트에서 DB구현.sql 실행
 <br>```sqlplus -s system/[system pw] < DB구현.sql``` 
 
